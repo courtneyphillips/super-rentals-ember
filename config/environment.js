@@ -6,7 +6,7 @@ module.exports = function(environment) {
     environment: environment,
     baseURL: '/',
     locationType: 'auto',
-    firebase: 'https://super-rentals-courtney.firebaseio.com',
+    firebase: 'https://courtney-super-rentals.firebaseio.com',
     EmberENV: {
       FEATURES: {
         // Here you can enable experimental features on an ember canary build
